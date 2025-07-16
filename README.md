@@ -37,7 +37,7 @@ Power BI is used to create interactive and informative visualizations that showc
 
 ### Power BI Visualization
 
-![Dashboard 1][((https://github.com/Nitesh-844/Pizza_Sales_Project_with-SQL-POWER-BI]/tree/main)/blob/main/PizzaSalesDashboard.png)
+![Dashboard 1][((https://raw.githubusercontent.com/Nitesh-844/Pizza_Sales_Project_with-SQL-POWER-BI/refs/heads/main/PizzaSalesDashboard.png)
 
 
 ![Dashboard 2][(https://github.com/Nitesh-844/Pizza_Sales_Project_with-SQL-POWER-BI]/tree/main)/blob/main/PizzaSalesDashboard2.png)
